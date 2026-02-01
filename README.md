@@ -1,6 +1,6 @@
 # OneBot - aplikacja
 
-Jedyne wymagania to tak naprawde HC-06 w dowonym robocie z min 1 silnikiem. Pobierz aplikacje na swój system Android (apk) lub iOS (ipa), które znajdziesz w zakładce "Releases".
+Jedyne wymagania to tak naprawde HC-06 w dowonym robocie z min 1 silnikiem. Pobierz aplikacje na swój system, znajdziesz go w zakładce "Releases" (na razie tylko .apk na Android).
 
 Przykładowy kod Arduino (nano):
 
